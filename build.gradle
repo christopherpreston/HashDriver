@@ -19,7 +19,7 @@ repositories {
 }
 
 version "1.0"
-group "com.chrisdashpreston.opensource"
+group "com.chrisp.opensource"
 
 apply plugin: 'groovy'
 apply plugin: 'eclipse'
