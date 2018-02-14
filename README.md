@@ -5,46 +5,46 @@ This is a driver layer for various hashing algorithms written back in 2009 in Ja
 
 An example output of the unit test looks like the following on my slow (but lightweight :) ) notebook:
 
-Testing hash type: RS
-RS hashes/sec = 1242750
-RScollision ratio = 0% - collision count = 0 map size = 3000000
-Testing hash type: SIMPLE_STRING
-SIMPLE_STRING hashes/sec = 1063452
-SIMPLE_STRINGcollision ratio = 26% - collision count = 807103 map size = 2192897
-Testing hash type: BKDR
-BKDR hashes/sec = 2073255
-BKDRcollision ratio = 0% - collision count = 0 map size = 3000000
-Testing hash type: JS
-JS hashes/sec = 3409090
-JScollision ratio = 1% - collision count = 30293 map size = 2969707
-Testing hash type: DEK
-DEK hashes/sec = 5050505
-DEKcollision ratio = 1% - collision count = 30900 map size = 2969100
-Testing hash type: SHA
-SHA hashes/sec = 2035278
-SHAcollision ratio = 0% - collision count = 0 map size = 3000000
-Testing hash type: BP
-BP hashes/sec = 5736137
-BPcollision ratio = 0% - collision count = 0 map size = 3000000
-Testing hash type: AP
-AP hashes/sec = 3529411
-APcollision ratio = 0% - collision count = 3 map size = 2999997
-Testing hash type: FNV
-FNV hashes/sec = 3271537
-FNVcollision ratio = 0% - collision count = 0 map size = 3000000
-Testing hash type: SDBM
-SDBM hashes/sec = 4132231
-SDBMcollision ratio = 0% - collision count = 0 map size = 3000000
-Testing hash type: PJW
-PJW hashes/sec = 5725190
-PJWcollision ratio = 2% - collision count = 82921 map size = 2917079
-Testing hash type: DJB
-DJB hashes/sec = 4636785
-DJBcollision ratio = 0% - collision count = 28068 map size = 2971932
-Testing hash type: ELF
-ELF hashes/sec = 5607476
-ELFcollision ratio = 2% - collision count = 82921 map size = 2917079
-Testing hash type: MD5
-MD5 hashes/sec = 2518891
-MD5collision ratio = 0% - collision count = 0 map size = 3000000
+Testing hash type: RS </br>
+RS hashes/sec = 1242750 </br>
+RScollision ratio = 0% - collision count = 0 map size = 3000000 </br>
+Testing hash type: SIMPLE_STRING </br>
+SIMPLE_STRING hashes/sec = 1063452 </br>
+SIMPLE_STRINGcollision ratio = 26% - collision count = 807103 map size = 2192897 </br>
+Testing hash type: BKDR </br>
+BKDR hashes/sec = 2073255 </br>
+BKDRcollision ratio = 0% - collision count = 0 map size = 3000000 </br>
+Testing hash type: JS </br>
+JS hashes/sec = 3409090 </br>
+JScollision ratio = 1% - collision count = 30293 map size = 2969707 </br>
+Testing hash type: DEK </br>
+DEK hashes/sec = 5050505 </br>
+DEKcollision ratio = 1% - collision count = 30900 map size = 2969100 </br>
+Testing hash type: SHA </br>
+SHA hashes/sec = 2035278 </br>
+SHAcollision ratio = 0% - collision count = 0 map size = 3000000 </br>
+Testing hash type: BP </br>
+BP hashes/sec = 5736137 </br>
+BPcollision ratio = 0% - collision count = 0 map size = 3000000 </br>
+Testing hash type: AP </br>
+AP hashes/sec = 3529411 </br>
+APcollision ratio = 0% - collision count = 3 map size = 2999997 </br>
+Testing hash type: FNV </br>
+FNV hashes/sec = 3271537 </br>
+FNVcollision ratio = 0% - collision count = 0 map size = 3000000 </br>
+Testing hash type: SDBM </br>
+SDBM hashes/sec = 4132231 </br>
+SDBMcollision ratio = 0% - collision count = 0 map size = 3000000 </br>
+Testing hash type: PJW </br>
+PJW hashes/sec = 5725190 </br>
+PJWcollision ratio = 2% - collision count = 82921 map size = 2917079 </br>
+Testing hash type: DJB </br>
+DJB hashes/sec = 4636785 </br>
+DJBcollision ratio = 0% - collision count = 28068 map size = 2971932 </br>
+Testing hash type: ELF </br>
+ELF hashes/sec = 5607476 </br>
+ELFcollision ratio = 2% - collision count = 82921 map size = 2917079 </br>
+Testing hash type: MD5 </br>
+MD5 hashes/sec = 2518891 </br>
+MD5collision ratio = 0% - collision count = 0 map size = 3000000 </br>
 
